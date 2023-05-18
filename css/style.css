@@ -128,14 +128,6 @@ section {
   }
 }
 
-@keyframes nice {
-  from {
-    transform: translateX(-20em);
-  }
-  to {
-    transform: translateX(0);
-  }
-}
 /* -------------------------------------------------------------
 || TOP CONTAINER
 ---------------------------------------------------------------- */
